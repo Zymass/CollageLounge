@@ -95,6 +95,7 @@ struct MainHomeView: View {
                     CardMarketView()
                         .frame(width: 200.0, height: 200.0)
                 }
+                //Something
                 
                 
             }.padding(.vertical,15)
