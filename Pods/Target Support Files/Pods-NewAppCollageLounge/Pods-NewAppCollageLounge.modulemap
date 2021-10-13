@@ -1,0 +1,6 @@
+framework module Pods_NewAppCollageLounge {
+  umbrella header "Pods-NewAppCollageLounge-umbrella.h"
+
+  export *
+  module * { export * }
+}
